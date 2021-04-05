@@ -5,9 +5,11 @@
 
 ### 2. 팀 소개
 
-![경준](https://user-images.githubusercontent.com/55734369/113569837-1fcbd680-964e-11eb-9c32-4a4ed53dcce1.jpg)
+<img src = "https://user-images.githubusercontent.com/55734369/113570530-7dacee00-964f-11eb-96f1-4b98f5abab99.jpg" width="400px">
 
-![혜영](https://user-images.githubusercontent.com/55734369/113570113-a84a7700-964e-11eb-913a-247a05e7e209.jpg)
+<img src = "https://user-images.githubusercontent.com/55734369/113569837-1fcbd680-964e-11eb-9c32-4a4ed53dcce1.jpg" width="400px">
+
+<img src = "https://user-images.githubusercontent.com/55734369/113570113-a84a7700-964e-11eb-913a-247a05e7e209.jpg" width="400px">
 
 
 ### 3. 사용법
