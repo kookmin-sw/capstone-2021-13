@@ -1,43 +1,14 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=351286&assignment_repo_type=GroupAssignmentRepo)
-# Welcome to GitHub
-
-캡스톤 팀 생성을 축하합니다.
-
-## 팀소개 및 페이지를 꾸며주세요.
-
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
-
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
-
-
-## 내용에 아래와 같은 내용들을 추가하세요.
-
 ### 1. 프로잭트 소개
 
-프로젝트
-
-### 2. 소개 영상
-
-프로젝트 소개하는 영상을 추가하세요
+어떤 비지니스 모델에도 적용 가능한 커뮤니티 앱 서비스의 공통 모듈
+- 회사 보안 내규로 자세한 사항 공개 불가
 
 ### 3. 팀 소개
 
-팀을 소개하세요.
+<img src="https://user-images.githubusercontent.com/55734369/113569837-1fcbd680-964e-11eb-9c32-4a4ed53dcce1.jpg", width="1000">
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+
+
 
 ### 4. 사용법
 
