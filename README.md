@@ -5,7 +5,7 @@
 
 ### 3. 팀 소개
 
-<img src="https://user-images.githubusercontent.com/55734369/113569837-1fcbd680-964e-11eb-9c32-4a4ed53dcce1.jpg", width="1000">
+![경준](https://user-images.githubusercontent.com/55734369/113569837-1fcbd680-964e-11eb-9c32-4a4ed53dcce1.jpg {width=40px height=400px})
 
 
 
