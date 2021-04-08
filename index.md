@@ -45,3 +45,7 @@
 ## 4. 기타
 
 doc 폴더의 자료들 참고해주세요
+
+[발표자료](https://github.com/kookmin-sw/capstone-2021-13/blob/master/doc/13%2624%ED%8C%80_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx)
+
+[참고자료](https://github.com/kookmin-sw/capstone-2021-13/blob/master/doc/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.docx)
